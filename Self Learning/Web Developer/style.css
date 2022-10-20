@@ -1,0 +1,19 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ca8357;
+}
+#projects {
+  background-color: #ca8357;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer p {
+  padding-top: 4rem;
+}
